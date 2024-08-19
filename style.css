@@ -1,0 +1,90 @@
+.row1{
+    background-color: rgb(37, 33, 10);
+    width: 100%;
+    height: 300px;
+}
+.new{
+    /* background-color: white; */
+    width: 800px;
+    height: 300px;
+
+}
+#travel{
+    color: white;
+    padding-left: 200px;
+    padding-top: 40px;
+}
+#tips{
+    color: green;
+}
+.group2{
+    margin-top: -320px;
+    margin-left: 900px;
+    width: 450px;
+    height: 290px;
+}
+#lorem{
+    color: white;
+    padding-left: 200px;
+}
+.our{
+    text-align: center;
+    padding-left: 50px;
+    color: brown;
+}
+.card{
+    width: 400px;
+    margin-left: 50px;
+}
+.card-title{
+    align-items: center;
+    padding-left: 110px;
+}
+#myvideo{
+    width: 400px;
+    height: 300px;
+}
+.cc{
+    margin-left: 80px;
+}
+.foot{
+    width:2000px;
+  
+}
+
+@media(max-width:480px){
+    .row1{
+        background-color: rgb(98, 77, 23);
+        width: 100%;
+        height: 300px;
+    }
+    .new{
+        /* background-color: white; */
+        width: 800px;
+        height: 300px;
+    
+    }
+    #travel{
+        color: whitesmoke;
+        font-size: 15px;
+        padding-left: 150px;
+        padding-top: 0px;
+    }
+    #tips{
+        color: green;
+    }
+    .group2{
+        margin-top: -250px;
+        margin-left: 150px;
+        width: 150px;
+        height: 190px;
+    }
+    #lorem{
+        color: whitesmoke;
+        padding-left: 120px;
+        font-size: 10px;
+    }
+    .cc{
+        margin-left: 40px;
+    }
+}
